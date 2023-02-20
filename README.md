@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeremyungx
-- 👀 I’m interested in creating games :D
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on creating games !
+- 👀 I’m interested in data science, software development and game development :)
+- 🌱 I’m currently learning C++ / Python
+- 💞️ I’m looking to collaborate on finding better predictive models for both supervised and unsupervised learning, building efficient and effective software solutions using C++, Python, HTML/CSS/JS (and Kotlin ? learning atm), and making great games during my scarce free time :)
 - 📫 How to reach me jeremy.ung@edu.escp.eu
 
 <!---
