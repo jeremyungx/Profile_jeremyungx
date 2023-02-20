@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jay-BlazingMoon
+- 👋 Hi, I’m @jeremyungx
 - 👀 I’m interested in creating games :D
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on creating games !
